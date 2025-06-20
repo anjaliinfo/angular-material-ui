@@ -64,4 +64,12 @@ For more information on using the Angular CLI, including detailed command refere
 
 ![image](https://github.com/user-attachments/assets/34bb331f-9ec1-421a-8c15-6beb5b75fbb9)
 
+## Table with fllter option
+
+![image](https://github.com/user-attachments/assets/ec785136-5aba-41a0-bc4f-fd36a407d94a)
+
+![image](https://github.com/user-attachments/assets/81bde6a6-130e-46ae-a39a-0997882a9dff)
+
+
+
 
